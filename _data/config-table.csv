@@ -1,5 +1,6 @@
 field,display_name
 title,Title
-date,Date
+date_text,Date
+date,Date-year
 description,Description
 subject,Subjects
